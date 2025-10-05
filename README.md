@@ -28,7 +28,7 @@ Each problem focuses on one or more of the **core OOP pillars**:
 By completing all 10 problems, you’ll be able to:
 - Write clean, modular OOP-based C++ code
 - Understand real-world object relationships
-- Confidently answer OOP design questions in **MAANG-level interviews**
+- Confidently answer OOP design questions in **Tech interviews**
 
 ---
 
