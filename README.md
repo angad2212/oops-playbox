@@ -7,7 +7,7 @@ Each problem focuses on one or more of the **core OOP pillars**:
 
 ---
 
-## 📘 Problems Overview
+## Problems Overview
 
 | # | Topic | Concept Highlights |
 |---|--------|--------------------|
@@ -24,7 +24,7 @@ Each problem focuses on one or more of the **core OOP pillars**:
 
 ---
 
-## 🧩 Goal
+## Goal
 By completing all 10 problems, you’ll be able to:
 - Write clean, modular OOP-based C++ code
 - Understand real-world object relationships
@@ -32,7 +32,7 @@ By completing all 10 problems, you’ll be able to:
 
 ---
 
-## ⚙️ How to Use
+## How to Use
 1. Clone the repo:  
    ```bash
    git clone https://github.com/<your-username>/OOPs-Mastery.git
@@ -45,6 +45,3 @@ By completing all 10 problems, you’ll be able to:
 3. Compile & run each problem:
    ```bash
    g++ main.cpp -o main && ./main
-
-    
-   
