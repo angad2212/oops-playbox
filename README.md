@@ -35,8 +35,8 @@ By completing all 10 problems, you’ll be able to:
 ## How to Use
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/<your-username>/OOPs-Mastery.git
-   cd OOPs-Mastery
+   git clone https://github.com/<your-username>/oops-playbox.git
+   cd oops-playbox
 2. Each problem is in its own folder:
    /Problem_01_BankAccount/
    /Problem_02_VehicleHierarchy/
