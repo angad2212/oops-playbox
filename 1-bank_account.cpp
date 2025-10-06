@@ -8,8 +8,6 @@ Problem: Design a class `BankAccount` that encapsulates:
 Concepts Tested: Encapsulation, data validation, constructor initialization
 */
 #include <iostream>
-#include <vector>
-#include <algorithm>
 #include <string>
 
 using namespace std;

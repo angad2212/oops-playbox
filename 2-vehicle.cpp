@@ -7,9 +7,6 @@ Concepts Tested: Inheritance, overriding, base constructor call
 */
 
 #include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
 
 using namespace std;
 

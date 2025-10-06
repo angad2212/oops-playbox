@@ -15,6 +15,7 @@
 # Common local build dirs
 build/
 dist/
+bin/
 
 # Project executables
 print_even_indices

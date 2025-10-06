@@ -8,10 +8,7 @@ Also, overload the `+` operator to combine two `Shape` objects (compile-time pol
 Concepts Tested: Function overriding, operator overloading, virtual functions
 */
 #include <iostream>
-#include <vector>
-#include <algorithm>
-#include <string>
-#include <cmath>
+
 
 using namespace std;
 
