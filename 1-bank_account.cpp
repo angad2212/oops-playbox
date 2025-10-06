@@ -1,3 +1,12 @@
+/*
+Problem: Design a class `BankAccount` that encapsulates:
+
+- Private attributes: `accountNumber`, `balance`, `ownerName`
+- Public methods: `deposit()`, `withdraw()`, `getBalance()`
+- Apply **input validation** and **data hiding** principles
+
+Concepts Tested: Encapsulation, data validation, constructor initialization
+*/
 #include <iostream>
 #include <vector>
 #include <algorithm>
