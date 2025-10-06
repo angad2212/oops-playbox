@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+*.dSYM/
+
+# C/C++ build artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dll
+*.dylib
+
+# Common local build dirs
+build/
+dist/
+
+# Project executables
+print_even_indices
+1-bank_account
+2-vehicle
+main
+
+a.out
+
+# Tooling
+compile_commands.json
