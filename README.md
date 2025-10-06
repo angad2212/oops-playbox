@@ -37,11 +37,10 @@ By completing all 10 problems, you’ll be able to:
    ```bash
    git clone https://github.com/<your-username>/oops-playbox.git
    cd oops-playbox
-2. Each problem is in its own folder:
-   /Problem_01_BankAccount/
-   /Problem_02_VehicleHierarchy/
+2. Each problem is in its own file along with problem description:
+   /1-bank_account.cpp/
+   /2-vehicle.cpp/
    ...
-   /Problem_10_RideSharingSystem/
 3. Compile & run each problem:
    ```bash
    g++ main.cpp -o main && ./main
